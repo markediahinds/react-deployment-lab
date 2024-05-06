@@ -20,4 +20,3 @@ Move and convert your solution to the old lab into the new React app. If you wan
 
 Follow the appropriate deployment instructions from the [guides repository](https://github.com/pursuit-curriculum-resources/guide-deployment)
 
-<!-- // -->
