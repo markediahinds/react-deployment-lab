@@ -1,0 +1,4 @@
+.box_three {
+    grid-column: 1;
+    grid-row: 5 / 10;
+}

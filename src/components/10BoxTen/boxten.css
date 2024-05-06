@@ -1,0 +1,4 @@
+.box_ten {
+    grid-column: 4 / 5;
+    grid-row: 5 / 10;
+}

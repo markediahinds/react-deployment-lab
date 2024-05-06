@@ -1,0 +1,5 @@
+.box_four {
+    grid-column: 1;
+    grid-row: 10 / 12;
+    border-bottom: 20px solid black;
+}

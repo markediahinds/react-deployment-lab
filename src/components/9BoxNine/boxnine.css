@@ -1,0 +1,5 @@
+.box_nine {
+    grid-column: 5 / 9;
+    grid-row: 1 / 4;
+    border-top: 20px solid black;
+}
